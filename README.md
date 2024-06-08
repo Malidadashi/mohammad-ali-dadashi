@@ -1,8 +1,8 @@
 
 ![gitartwork](gitartwork.svg)
-<h1 align="center">Hi 👋, I'm Fariborz Shalghouni por</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Ali Dadashi</h1>
 <h3 align="center">
-  A passionate, creative, responsible & fast Front-end and Back-End developer.
+  Front-End developer.
 </h3>
 
 
