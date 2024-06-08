@@ -15,7 +15,7 @@
   /></a>
 </p>
 
-As a seasoned Frontend Developer with 4 years of dedicated experience, I bring a
+/*[As a seasoned Frontend Developer with 4 years of dedicated experience, I bring a
 wealth of expertise to the table. Here's a glimpse into my profile: 
 
 - 🔭 I've been honing my skills in the Frontend realm for the past three years, tackling
@@ -36,7 +36,7 @@ I'm readily available to discuss collaborations, projects, or simply chat about 
 
 - 🤟🏾 Fun fact: Beyond coding, I have a deep-rooted love for challenges, mathematics, and
 literature. Whether it's unraveling complex problems or diving into the world of
-words, I thrive on the thrill of discovery and exploration.
+words, I thrive on the thrill of discovery and exploration.](url)*/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
